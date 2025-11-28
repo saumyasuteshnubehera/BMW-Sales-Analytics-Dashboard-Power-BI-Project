@@ -1,7 +1,6 @@
 # 🚗 BMW Sales Analytics Dashboard | Power BI Project
 ## 📌 Project Overview
-<img width="505" height="340" alt="image" src="https://github.com/user-attachments/assets/90acb6ee-6ade-457b-8d39-00f99d1634ea" />
-<img width="505" height="340" alt="image" src="https://github.com/user-attachments/assets/05da5641-fc31-47c3-8acd-dfd01c2b669f" />
+<img width="505" height="340" alt="image" src="https://github.com/user-attachments/assets/90acb6ee-6ade-457b-8d39-00f99d1634ea" /><img width="505" height="340" alt="image" src="https://github.com/user-attachments/assets/05da5641-fc31-47c3-8acd-dfd01c2b669f" />
 
 
 ● Interactive Power BI dashboard built for BMW sales analysis
